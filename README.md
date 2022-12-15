@@ -9,4 +9,4 @@ commands:
 3> sprite_name = sprite.text(the text, path of the font file, color)
 if you want to access the surface of a sprite type -> sprite_name.sf
 if you want to access the rectangle of a sprite type -> sprite_name.rect
-if you have any questions peas comment!
+if you have any questions please comment!
